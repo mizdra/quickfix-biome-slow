@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "mizdra <pp.mizdra@gmail.com>",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "description": "",
   "devDependencies": {
     "typescript": "5.6.3"
